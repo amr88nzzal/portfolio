@@ -77,7 +77,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href="https://twitter.com/amr_nzzal"
                   id="tooltip475038074"
                   target="_blank"
                 >
@@ -91,7 +91,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/amr.nzzal"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -105,7 +105,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://dribbble.com/amr88nzzal"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -119,7 +119,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/Amr88nzzal"
                   id="tooltip495507257"
                   target="_blank"
                 >
